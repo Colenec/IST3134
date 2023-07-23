@@ -1,0 +1,6 @@
+start-all.sh
+
+cd IST3134/asg
+
+nano WordCount.java
+
