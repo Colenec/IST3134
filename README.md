@@ -6,7 +6,7 @@ Welcome to my GitHub repository! I'm Colene Chong, a student from the IST3134: B
 
 ## Current Project
 
-- 🔭 I'm currently working on a project that involves analyzing a book reviews dataset from Kaggle (https://www.kaggle.com/datasets/pigment/big-sales-data). The project utilizes Java MapReduce and Pig to perform word count and calculate the average score for the reviews.
+- 🔭 I'm currently working on a project that involves analyzing a books rating dataset from Kaggle (https://www.kaggle.com/datasets/pigment/big-sales-data). The project utilizes Java MapReduce and Pig to perform word count and calculate the average score for the reviews.
 
 ## What I'm Learning
 
